@@ -46,3 +46,6 @@ For full details of creating your own collection site, visit [CollectionBuilder 
 
 The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 Featured image by [JJ Ying on Unsplash](https://unsplash.com/photos/WmnsGyaFnCQ).
+
+## Edits
+Here's some edits to my project's About page. 
